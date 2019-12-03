@@ -1,2 +1,3 @@
-# hello-GCI
-GoogleCodeIn
+fn main() {
+    println!("Hello,GCI!");
+}
